@@ -4,7 +4,7 @@ Soy una persona proactiva, eficiente, eficaz, asertiva y competitiva, apasionada
 
 ## 💻 Tecnologías con las que trabajo:
 - **Frontend**: HTML5, CSS, JavaScript, Angular, TypeScript
-- **Backend**: Node.js
+- **Backend**: Node.js, Deno.js
 - **Bases de datos**: MySQL, MongoDB
 
 ## 📫 Cómo contactarme
