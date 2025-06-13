@@ -68,7 +68,7 @@
 | [🪴 Green Shop](https://github.com/FranciscoLavinCarpanetti/proyecto_green_shop) | E-commerce de plantas con catálogo, carrito de compras y sistema de filtrado. | Javascript, Bootstrap |
 | [🌍 Globetrotter Paco](https://github.com/FranciscoLavinCarpanetti/blobeTrotterPaco) | Web para postear y explorar viajes. Filtro por categorías y detalles de cada experiencia. | Angular, Bootstrap |
 | [⏱️ Cronos (colaboración)](https://github.com/KevinALopez/registro-horas-front) | App para registrar y visualizar horas laborales por proyecto. | Angular, Node.js, MySQL |
-| [💼 Portafolio Profesional](https://github.com/FranciscoLavinCarpanetti/portfolio) | Sitio web minimalista para mostrar mi perfil profesional y proyectos. | HTML, CSS, JS, Bootstrap |
+| [💼 Portafolio Profesional](https://github.com/FranciscoLavinCarpanetti/Porfolio_Publicado) | Sitio web minimalista para mostrar mi perfil profesional y proyectos. | HTML, CSS, JS, Bootstrap |
 | [🐍 Python Utils](#) | Pequeñas utilidades escritas en Python (scraping, scripts CLI, automatizaciones). | Python |
 | [🐳 Docker Ready API](#) | API backend lista para producción, dockerizada y documentada. | Node.js, Express, Docker |
 
